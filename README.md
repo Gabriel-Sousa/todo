@@ -32,9 +32,13 @@ O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para 
 - [x] Remover Tarefa
 - [x] Contator de Tarefa
 
+<br>
+
 ## 🔖 Layout
 
 Layout da aplicação no [figma](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate?node-id=0-1).
+
+<br>
 
 ## 🌐 Deploy
 

@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="todo" src=".github/jobscalc.png" width="100%">
+  <img alt="todo" src=".github/todo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

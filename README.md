@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://todo-new-blue.vercel.app/assets/logo.3ac734ce.svg" />
+  <img alt="ToDo" title="ToDo" src="https://todo-new-blue.vercel.app/assets/logo.3ac734ce.svg" />
 </h1>
 
 <br>

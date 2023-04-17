@@ -46,7 +46,7 @@ export const Container = styled.div`
   main ul li {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     gap: 0.5rem;
 
     background: var(--gray-400);

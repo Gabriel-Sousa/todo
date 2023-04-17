@@ -42,13 +42,13 @@ Layout da aplicação no [figma](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xe
 
 ## 🌐 Deploy
 
-Você pode ver o site clicando [nesse link](https://todo-new-blue.vercel.app/).
+Você pode ver o site clicando [nesse link](https://todo-new-blue.vercel.app/){:target="_blank"}.
 
 <br>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Gabriel-Sousa/todo/blob/main/.github/LICENSE){:target="_blank"} para mais detalhes.
 
 ---
 

@@ -25,7 +25,7 @@ O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para 
 
 <br>
 
-### Features
+### ⚒️ Features
 
 - [x] Cadastro de tarefa
 - [x] Checar a tarefa
@@ -36,9 +36,11 @@ O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para 
 
 Layout da aplicação no [figma](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate?node-id=0-1).
 
-## :memo: Deploy
+## 🌐 Deploy
 
 Você pode ver o site clicando [nesse link](https://todo-new-blue.vercel.app/).
+
+<br>
 
 ## :memo: Licença
 

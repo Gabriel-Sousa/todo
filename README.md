@@ -12,14 +12,18 @@
 
 Tecnologias utilizadas no projeto:
 
+- ReactJS
 - Vite
 - Typescript
 - Styled Components
 
+<br>
 
 ## 💻 Projeto
 
 O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para concluído e remover alguma tarefa.
+
+<br>
 
 ### Features
 
@@ -30,7 +34,11 @@ O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Layout da aplicação no [figma](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate?node-id=0-1).
+
+## :memo: Deploy
+
+Você pode ver o site clicando [nesse link](https://todo-new-blue.vercel.app/).
 
 ## :memo: Licença
 
@@ -38,4 +46,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ por Gabriel Sousa

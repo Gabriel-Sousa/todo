@@ -25,7 +25,7 @@ O ToDo é uma aplicação para criar uma lista de tarefa, atualizar status para 
 
 <br>
 
-### ⚒️ Features
+## ⚒️ Features
 
 - [x] Cadastro de tarefa
 - [x] Checar a tarefa

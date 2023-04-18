@@ -121,6 +121,7 @@ export const Container = styled.div`
     margin-bottom: 1rem;
   }
   .completedTaskTitle{
-    color: #808080
+    color: #808080;
+    text-decoration: line-through;
   }
 `;

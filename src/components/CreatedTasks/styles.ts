@@ -120,4 +120,7 @@ export const Container = styled.div`
   .noneTask img {
     margin-bottom: 1rem;
   }
+  .completedTaskTitle{
+    color: #808080
+  }
 `;

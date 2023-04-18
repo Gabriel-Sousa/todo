@@ -60,7 +60,11 @@ export function CreatedTasks({
                   <Circle size={24} weight={"duotone"} className="circle" />
                 )}
               </button>
-              <div>{task.tittle}</div>
+              {task.isCompleted ? (
+                <div className="completedTaskTitle">{task.tittle}</div>
+              ) : (
+                <div>{task.tittle}</div>
+              )}
               <button
                 onClick={() => {
                   onDeleteTask(task.id);
